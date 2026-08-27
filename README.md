@@ -66,19 +66,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=YOUR_USERNAME&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
----
-
-[![](https://visitcount.itsvg.in/api?id=YOUR_USERNAME&icon=0&color=12)](https://visitcount.itsvg.in)
-
 <!-- Built with 🖤 --> 
